@@ -2,13 +2,17 @@
 Environment to start Bootstrap Dev. On Windows you can download the Git Bash to work on the CLI.
 
 # Step 1 - Installations
+## Get Git bash
+https://git-scm.com/downloads
+
 ## Make sure you have Node installed with NPM
 
 `node -v`
 
 `npm -v`
 
-## Pull the repo and run npm
+# Step 2 - Setup
+## Pull the repo to any directory and run `npm`
 
 `npm`
 
