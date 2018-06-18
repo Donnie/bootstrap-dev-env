@@ -12,9 +12,9 @@ https://git-scm.com/downloads
 `npm -v`
 
 # Step 2 - Setup
-## Pull the repo to any directory and run `npm`
+## Pull the repo to any directory and run `npm install`
 
-`npm`
+`npm install`
 
 NPM will read the package.json and install all the required dependencies.
 
