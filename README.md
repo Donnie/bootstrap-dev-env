@@ -11,6 +11,12 @@ https://git-scm.com/downloads
 
 `npm -v`
 
+## Install Gulp if you do not have it already
+
+`npm i -g gulp`
+
+`gulp -v`
+
 # Step 2 - Setup
 ## Pull the repo to any directory and run `npm install`
 
